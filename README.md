@@ -59,7 +59,3 @@ export const widget =()=> {
 - **Real-time User Tracking**: Instantly see how many users are active on your site.
 - **Simple Integration**: Add the widget with just a few lines of code.
 - **Customizable**: Modify thw widget to your design.
-
-## Github
-
-- Go to [Live Track JS](https://github.com/Kunal-jaiswal972/LiveTrackJS/) to know more.
